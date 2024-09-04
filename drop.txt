@@ -1,0 +1,3 @@
+delete  quando vc quer deletar uma linha 
+drop table excluir 
+truncate limpar os dados da tabela  
